@@ -396,6 +396,7 @@
 				5F9F77251B95F2B50072FB69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F9F77261B95F2B50072FB69 /* Build configuration list for PBXNativeTarget "reply_on_notificationTests" */ = {
 			isa = XCConfigurationList;
@@ -404,6 +405,7 @@
 				5F9F77281B95F2B50072FB69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
